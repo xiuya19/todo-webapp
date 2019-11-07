@@ -1,0 +1,8 @@
+.main-header[data-v-7455917d]{text-align:center}.main-header h1[data-v-7455917d]{font-size:100px;color:rgba(172,47,47,0.4);font-weight:100;margin:20px}
+
+#footer[data-v-21aa75f7]{margin-top:40px;text-align:center;color:#bfbfbf;font-size:10px;text-shadow:0 1px 0 #bfbfbf}
+
+#app[data-v-95f05928]{position:absolute;left:0;right:0;top:0;bottom:0}#cover[data-v-95f05928]{position:absolute;left:0;top:0;right:0;bottom:0;background-color:#999;opacity:0.9;z-index:-1}
+
+html,body{margin:0;padding:0;width:100%;height:100%}body{background-image:url(http://127.0.0.1:8080/public/image/client/assets/images/background.a9f57da4.jpg);background-size:cover;background-position:center;font:14px 'mircosoft yahei';color:'#4d4d4d';font-weight:300}.fade-enter-active,.fade-leave-active{-webkit-transition:opacity .5s;transition:opacity .5s}.fade-enter,.fade-leave-to{opacity:0}
+
